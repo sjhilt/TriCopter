@@ -18,6 +18,8 @@ TyLilly (https://twitter.com/sasquatch_labs)
 ToTheHilt (https://www.youtube.com/channel/UC33PfJWcyKvKQgNuMl39FQQ)
 
 
+BOM for the TriCopter parts can be found here https://docs.google.com/spreadsheet/lv?key=0AvQcw_IidStbdDlxclhFcndFcUtlcm9YNzY5bWR5dWc
+
 https://creativecommons.org/licenses/by-sa/2.0/
 
 You are free to:
