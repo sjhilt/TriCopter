@@ -1,7 +1,7 @@
 TriCopter
 =========
 
-![TriCopter Preview](https://pbs.twimg.com/media/Bi4RpuhIcAAFpA0.jpg)
+![TriCopter Preview](https://pbs.twimg.com/media/BpuowI9CcAEjm-R.jpg)
 
 A TriCopter Designed by Andrew Gilbert ( Labcopilot - https://www.youtube.com/user/labcopilot )
 
